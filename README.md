@@ -4,7 +4,7 @@
 ##GRUPO 8
 
 #LINK de tinkercad: 
-                   https://www.tinkercad.com/things/8Np6Ir48Wzh-tp1spd-grupo8/editel
+https://www.tinkercad.com/things/8E5CZEnZ7L5-copy-of-tp1spd-grupo8/editel
 
 #Integrantes: 
               Miguel Villalba
